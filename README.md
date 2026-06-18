@@ -18,13 +18,13 @@ A comprehensive agent skill for mastering the NetBird CLI (`netbird`).
 ## Install
 
 ```bash
-npx skills add manawenuz/manNetbird
+npx skills add manawenuz/netbird-cli
 ```
 
 Or install the `SKILL.md` directly:
 
 ```bash
-npx skills add https://raw.githubusercontent.com/manawenuz/manNetbird/main/SKILL.md
+npx skills add https://raw.githubusercontent.com/manawenuz/netbird-cli/main/SKILL.md
 ```
 
 ## Usage
