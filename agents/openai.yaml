@@ -1,0 +1,4 @@
+interface:
+  display_name: "NetBird CLI"
+  short_description: "Operate and troubleshoot NetBird CLI"
+  default_prompt: "Use $netbird-cli to troubleshoot my NetBird peer connectivity."
